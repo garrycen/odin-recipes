@@ -1,5 +1,18 @@
-ul {
-    font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: 20px;
+body {
+    background-color: bisque;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+h2, .list {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+.list2 {
+    font-size: 18px;
 }
 
 #chef {
@@ -10,8 +23,11 @@ ul {
 .banner {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 50px;
+    text-align: center;
+    color: #00244d;
 }
 
-.sub {
-    font-size: 30px;
+.bannersub {
+    font-size: 24px;
+    margin: 50px;
 }
