@@ -1,0 +1,17 @@
+ul {
+    font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: 20px;
+}
+
+#chef {
+    width: 500px;
+    height: auto;
+}
+
+.banner {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+}
+
+.sub {
+    font-size: 30px;
+}
