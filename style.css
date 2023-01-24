@@ -9,6 +9,7 @@ body {
 h2, .list {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
+    list-style: none;
 }
 
 .list2 {
@@ -30,4 +31,19 @@ h2, .list {
 .bannersub {
     font-size: 24px;
     margin: 50px;
+}
+
+.card {
+    width: 500px;
+    background-color: aliceblue;
+    padding: 8px;
+    margin: 0 auto;
+}
+
+.image {
+    background-color: aliceblue;
+    padding: 5px;
+    padding-bottom: 0px;
+    width: 500px;
+    margin: 0 auto;
 }
